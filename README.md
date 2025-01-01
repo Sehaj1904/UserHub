@@ -31,4 +31,4 @@ Role-based user system (mentors/mentees) <br />
 ### css/style.css - Main stylesheet with theme variables and responsive design
 
 ## Start the server
-npm start
+yarn start
